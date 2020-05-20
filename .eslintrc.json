@@ -24,6 +24,9 @@
     "prettier"
   ],
   "rules": {
+    "no-console": "off",
+    "no-await-in-loop": "off",
+    "no-plusplus": "off",
     "no-underscore-dangle": "off",
     "prettier/prettier": "error",
     "class-methods-use-this": "off",
